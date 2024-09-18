@@ -59,3 +59,9 @@ editor and searching all files in `packages/app/.next` and
    bundled in the app.
 3. check out the file `packages/ui-library/lib/index.esm.js` which is the bundled file of the ui-library which
    includes all components
+
+## Contributors
+
+- Contributor 1
+- Contributor 2
+- Contributor 3
