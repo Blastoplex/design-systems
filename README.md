@@ -1,5 +1,5 @@
 
-this is a new linw
+this is a new line
 
 # Tree-shakable component library with TypeScript, StoryBook & Next.js
 👉 https://dev.to/lukasbombach/how-to-write-a-tree-shakable-component-library-4ied
